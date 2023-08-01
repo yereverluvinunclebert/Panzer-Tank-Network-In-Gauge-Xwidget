@@ -4,7 +4,7 @@ Dieselpunk Desktop Network IN widget, written in Jscript for the XWidget Engine.
 
 
 
-This Panzer OUT widget is an attractive dieselpunk Xwidget for your desktop. The Network OUT gauge displays Network traffic going out of your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
+This Panzer OUT widget is an attractive dieselpunk Xwidget for your desktop. The Network OUT gauge displays Network traffic coming into your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
