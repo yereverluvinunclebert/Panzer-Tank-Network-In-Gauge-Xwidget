@@ -68,8 +68,7 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
-![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/29d6741b-0081-4861-a6fd-49d8a500704c)
-
+![Icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-In-Gauge-Xwidget/assets/2788342/d32d8ee2-62b2-4812-9455-35d23379b22e)
 
 
 Instructions for running XWidgets on Windows
