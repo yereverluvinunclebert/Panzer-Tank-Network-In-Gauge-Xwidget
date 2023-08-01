@@ -2,13 +2,13 @@
  
 Dieselpunk Desktop Network IN widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux using Wine.
 
-![panzer-network-photo-1000](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/d8c7a31a-8c23-456b-a982-720c3e4021b4)
+
 
 This Panzer OUT widget is an attractive dieselpunk Xwidget for your desktop. The Network OUT gauge displays Network traffic going out of your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
-![Icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/e7106a55-1a75-4b40-89b7-16e77ea6944f)
+![panzer-networkin-photo-1440](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-In-Gauge-Xwidget/assets/2788342/39e326e2-d389-4e7d-9f39-b8cc08cfcfd2)
 
 To find out how the widget operates, simply right click and select Help and a full explanation of all the buttons, windows is shown. The top left window is the current power in digital form. Hovering over any control should supply a pop-up explaining each function.
 
@@ -21,7 +21,7 @@ All javascript widgets need an engine to function, in this case the widget uses 
 This widget is a virtual duplicate of the Xwidget CPU battery widget that 
 you can find here: 
 
-![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-Out-Gauge-Xwidget/assets/2788342/aa4b868e-3dac-4d12-a502-883af9f1a6bc)
+![panzer-networkin-help-750](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-In-Gauge-Xwidget/assets/2788342/f757c337-7da3-4695-8892-df04291fa64b)
 
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
@@ -80,9 +80,7 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/8c33c6ff-afaa-4101-881c-64f5e716fdaa)
-
+![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Network-In-Gauge-Xwidget/assets/2788342/53f576e7-c6a1-440b-a4d7-1f9f2e5c6384)
 
 LICENCE AGREEMENTS:
 
