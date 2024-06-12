@@ -1,8 +1,8 @@
 # Panzer Tank-Network-In-Gauge Xwidget
  
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-Network-Gauge-VB6
+
 Dieselpunk Desktop Network IN widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux using Wine.
-
-
 
 This Panzer OUT widget is an attractive dieselpunk Xwidget for your desktop. The Network OUT gauge displays Network traffic coming into your desktop/laptop. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require. I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
